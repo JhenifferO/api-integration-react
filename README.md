@@ -1,4 +1,4 @@
-Developer as a challenge from Alura school for the purpose of making HTTTP request with Axios in a React application. 
+Developed as a challenge from Alura school for the purpose of making HTTTP request with Axios in a React application. 
 
 - Requests with Axios
 - Developed with Typescript
